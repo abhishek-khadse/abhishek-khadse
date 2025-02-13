@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning **Cybersecurity and Machine Learning**
 - 🤔 &nbsp; Exploring **Python Security, Penetration Testing, and AI-based Threat Detection**.
-- 🎓 &nbsp; Studying **Computer Science & Security Research**.
+- 🎓 &nbsp; Studying **Computer Science & Cyber Security**.
 - 💼 &nbsp; Passionate about **ethical hacking, AI in security, and automation**.
 - 🌱 &nbsp; Enthusiast in **cybersecurity defense mechanisms and financial crime prevention**.
 - ✍️ &nbsp; Love **trekking**, exploring **cybersecurity trends**, and staying up-to-date with **latest security vulnerabilities**.
@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Bash | C++  
+- 💻 &nbsp; Python | Bash 
 - 🌐 &nbsp; Flask | Django | HTML | JavaScript | Cybersecurity Tools 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Kali Linux | Wireshark | Metasploit | Burp Suite | OSINT
-- 🖥 &nbsp; VirtualBox | Docker | OpenSSL | Git
+- 🖥 &nbsp; VirtualBox | OpenSSL | Git
 
 <br>
 
