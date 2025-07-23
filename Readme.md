@@ -43,14 +43,4 @@
 
 ---
 
-### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-khadse45" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="45" />
-  </a>
-  &nbsp;
-  <a href="mailto:abhishekkhadse289@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="45" />
-  </a>
-</p>
