@@ -1,16 +1,16 @@
 <div align="center">
 
 # Abhishek Khadse
-### Security Researcher | VAPT | Web App Pentesting | Bug Bounty
+### SOC Analyst | SIEM & Log Monitoring | Alert Triage & Investigation | VAPT Background
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-khadse45)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/abhishek-khadse/Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek4955@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkhadse289@gmail.com)
 
-**Security Researcher @ Albus Security LLP | Pune, India**
+**Cybersecurity Professional | Pune, India**
 
-I find vulnerabilities in web applications before attackers do.
-Specializing in OWASP Top 10 | API Security | Automated Recon | Pentest Reporting
+I investigate alerts and find what attackers already got past.
+12 months at Albus Security LLP doing hands-on web application VAPT, backed by structured SOC training in IBM QRadar, Microsoft Sentinel, and Microsoft Defender.
 
 </div>
 
@@ -18,16 +18,23 @@ Specializing in OWASP Top 10 | API Security | Automated Recon | Pentest Reportin
 
 ## About Me
 
-- Currently working as **Security Researcher at Albus Security LLP**, conducting real-world VAPT engagements
+- 12 months at **Albus Security LLP** — Security Intern → Junior Security Researcher, hands-on web application VAPT on real client environments
+- Structured SOC training in **IBM QRadar** (offense monitoring, alert triage, true/false positive classification), **Microsoft Sentinel**, and **Microsoft Defender**, mapped to **MITRE ATT&CK**
 - Hands-on experience identifying **XSS, IDOR, SQLi, Broken Auth** across web applications
 - Built automated recon pipelines using **Python & Bash** for subdomain enumeration, port scanning, and fingerprinting
 - Conducted **API security testing** using Postman and Burp Suite across REST endpoints
-- B.Tech in Computer Science — **DY Patil University, Pune** (CGPA: 7.69)
-- Open to: **Security Analyst | Junior Pentester | VAPT | QA Security roles**
+- B.Tech in Computer Engineering — **DY Patil University, Pune** (CGPA: 7.69)
+- Open to: **SOC Analyst | Security Analyst | L1/L2 SOC roles**
 
 ---
 
 ## Tech Stack & Tools
+
+**SOC / Detection**
+
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C6272D?style=flat-square)
 
 **Offensive Security**
 
@@ -49,7 +56,8 @@ Specializing in OWASP Top 10 | API Security | Automated Recon | Pentest Reportin
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Trinetra-Sec](https://github.com/abhishek-khadse/Trinetra-Sec) | Multi-layer web security scanner with OWASP checks | TypeScript |
+| [SOC-Workbench](https://github.com/abhishek-khadse/SOC_Workbench) | Independent QRadar offense investigations — MITRE ATT&CK-mapped, full analyst write-ups | Markdown |
+| [Trinetra-Sec](https://github.com/abhishek-khadse/Trinetra-Sec) | Cybersecurity analyst workspace — document analysis, APK analysis, phishing detection, threat intel, IOC extraction | React, TypeScript, FastAPI |
 | [Malware-Sage](https://github.com/abhishek-khadse/Malware-Sage) | ML-based malware behavioral detection system | TypeScript |
 | [Sage-Guard](https://github.com/abhishek-khadse/Sage-Guard) | Security hardening & misconfiguration detection tool | TypeScript |
 | [Sage-Shield](https://github.com/abhishek-khadse/Sage-Shield) | Real-time threat monitoring and alerting system | TypeScript |
@@ -60,6 +68,7 @@ Specializing in OWASP Top 10 | API Security | Automated Recon | Pentest Reportin
 ## What I Work On
 
 ```
+SOC / Detection                --> QRadar offense investigation, alert triage, MITRE ATT&CK mapping
 Web Application Pentesting    --> XSS, SQLi, IDOR, CSRF, Broken Auth (OWASP Top 10)
 API Security Testing          --> Auth bypass, rate limiting, mass assignment, fuzzing
 Automated Recon               --> Subdomain enum, port scanning, fingerprinting
@@ -83,16 +92,15 @@ Cloud Security                --> GCP IAM audits, Supabase Auth hardening
 
 ## Currently
 
-- Working on: **Web vulnerability scanner in Python (OWASP-focused)**
-- Learning: **Advanced Web App Pentesting + Bug Bounty Methodology**
-- Target: **OSCP Certification**
-- Open to: **Freelance VAPT projects | Junior Security roles | QA Security**
+- Working on: **Independent QRadar offense investigations (SOC-Workbench)**
+- Learning: **SIEM operations, incident response, and SOC L1/L2 workflows**
+- Open to: **SOC Analyst | Security Analyst | SIEM/Detection roles**
 
 ---
 
 <div align="center">
 
-**If you're a recruiter or security team looking for a hands-on researcher — let's connect.**
+**If you're a recruiter or security team looking for a SOC analyst with an offensive-security edge — let's connect.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-khadse45)
 
