@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Abhishek%20Khadse&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOC%20Analyst%20%7C%20Alert%20Triage%20%26%20Investigation&descAlignY=58&descSize=16" width="100%" alt="Abhishek Khadse header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Abhishek%20Khadse&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOC%20Analyst%20%7C%20Alert%20Triage%20and%20Investigation&descAlignY=58&descSize=16" width="100%" alt="Abhishek Khadse header"/>
 
 <a href="https://github.com/abhishek-khadse">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Investigating+QRadar+offenses;Mapping+alerts+to+MITRE+ATT%26CK;12+months+of+web+app+VAPT;Open+to+SOC+L1%2FL2+roles" alt="Typing animation"/>
